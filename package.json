@@ -14,8 +14,7 @@
     "express": "^4.14.0",
     "helmet": "^3.1.0",
     "mocha": "^3.2.0",
-    "mongodb": "^5.7.0",
-    "mongoose": "^7.4.3",
+    "mongoose": "^5.12.5",
     "node-fetch": "^2.6.1"
   },
   "repository": {
@@ -26,6 +25,5 @@
     "node",
     "express"
   ],
-  "license": "MIT",
-  "type": "commonjs"
+  "license": "MIT"
 }

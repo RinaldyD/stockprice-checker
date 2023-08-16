@@ -7,4 +7,4 @@ const StockSchema = new Schema({
 });
 const Stock = mongoose.model('Stock', StockSchema);
 
-module.exports = Stock;
+exports.Stock = Stock;
